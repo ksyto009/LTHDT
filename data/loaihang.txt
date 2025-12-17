@@ -1,0 +1,6 @@
+LH01|Banh|Tat ca loai banh
+LH02|Thit|Cac loai thit (thit heo, ga, ca)
+LH03|Do uong|cac nuoc dong chai
+LH04|San pham dien tu|Cac loai linh kien, dien tu
+LH05|Quan ao|Cac loai quan ao
+LH06|Dung cu the thao|Cac dung cu the thao

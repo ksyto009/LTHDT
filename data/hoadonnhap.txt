@@ -1,0 +1,6 @@
+HDN01|20/05/2025|Cong ty Nuoc|1
+MH06|String|100|7000
+HDN02|21/05/2025|Cong ty ABC|3
+MH01|Banh AFC|30|7500
+MH02|Keo trai cay|150|1000
+MH03|Dui ga 3/4|20|5000
